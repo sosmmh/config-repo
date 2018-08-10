@@ -13,4 +13,4 @@ spring:
     password: guest
 girl:
   name: win
-  age: 20123
+  age: 123
