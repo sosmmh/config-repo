@@ -1,0 +1,16 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    username: root
+    password: root
+    url: jdbc:mysql://127.0.0.1/sell?characterEncoding=utf-8&useSSL=false
+  jpa:
+    show-sql: true
+  rabbitmq:
+    host: 192.168.61.150
+    port: 5672
+    username: guest
+    password: guest
+girl:
+  name: win123456
+  age: 20
